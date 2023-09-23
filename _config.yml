@@ -22,7 +22,7 @@ github_username: sophia-ruduke
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: soph.rdk
-linkedin_username: sophia-ruduke
+linkedin_username: sophia-ruduke-56599522a
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -45,21 +45,26 @@ linkedin_username: sophia-ruduke
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sophia Ruduke and I'm a software developer and systems integrator at Kymera Systems. I am in my last year of Computing Science with a Software Specialization at the University of Alberta.
+  Hi, my name's Sophia Ruduke and I'm a software developer and systems integrator at Kymera Systems. I have been there for a little over a year now, and I've gained an array of skills related to SCADA Systems, system development and deployment, and data management. 
+  I am currently in my last year of Computing Science with a Software Specialization at the University of Alberta, with a 3.9 GPA.
+  I am very passionate about software, and the fast-paced and ever-changing landscape of the software industry fills me with excitement, motivating me to continuously learn and improve my skills.
 
-| Developing Experience        | Areas of Interest               |
-|----------------------------------------|-----------------------------------|
-| Data-intensive applications  | AI / ML                         |
-| Web applications             | DevOps                          |
-| Mobile apps                  | Security                        |
-| Automated systems            | Automation                      |
-| AI Models                    | Operating Systems & Linux       |
-| Modules                      | IOT                             |
-| Software                     | Containerization                |
-
+content:
+  - title: Nerd Info
+    layout: text
+    content: | #
+      | Developing Experience        | Areas of Interest               |
+      |------------------------------|---------------------------------|
+      | Data-intensive applications  | AI / ML                         |
+      | Web applications             | DevOps                          |
+      | Mobile apps                  | Security                        |
+      | Automated systems            | Automation                      |
+      | AI Models                    | Operating Systems & Linux       |
+      | Modules                      | IOT                             |
+      | Software                     | Ansible                         |
 
 # TODO fill this in when there's time lol
 
