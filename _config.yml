@@ -50,21 +50,16 @@ about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sophia Ruduke and I'm a software developer and systems integrator at Kymera Systems. I am in my last year of Computing Science with a Software Specialization at the University of Alberta.
 
-  I have experience in developing:  
-  * Data-intensive applications
-  * Web applications
-  * Mobile apps
-  * Automated systems
-  * AI Models
-  * Modules
-  * Software
+| Developing Experience        | Areas of Interest               |
+|----------------------------------------|-----------------------------------|
+| Data-intensive applications  | AI / ML                         |
+| Web applications             | DevOps                          |
+| Mobile apps                  | Security                        |
+| Automated systems            | Automation                      |
+| AI Models                    | Operating Systems & Linux       |
+| Modules                      | IOT                             |
+| Software                     | Containerization                |
 
-  My areas of interest:  
-  * AI / ML
-  * Devops
-  * Security
-  * Automation
-  * Operating Systems & Linux
 
 # TODO fill this in when there's time lol
 
