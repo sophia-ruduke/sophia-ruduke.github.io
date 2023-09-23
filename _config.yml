@@ -48,23 +48,13 @@ linkedin_username: sophia-ruduke-56599522a
 about_title: About Me
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sophia Ruduke and I'm a software developer and systems integrator at Kymera Systems. I have been there for a little over a year now, and I've gained an array of skills related to SCADA Systems, system development and deployment, and data management. 
+  Hi, my name's Sophia Ruduke and I'm a software developer and systems integrator at Kymera Systems. I have been there for a little over a year now, and I've gained an array of skills related to SCADA Systems, systems development and deployment, and data management. 
   I am currently in my last year of Computing Science with a Software Specialization at the University of Alberta, with a 3.9 GPA.
   I am very passionate about software, and the fast-paced and ever-changing landscape of the software industry fills me with excitement, motivating me to continuously learn and improve my skills.
 
-content:
-  - title: Nerd Info
-    layout: text
-    content: | #
-      | Developing Experience        | Areas of Interest               |
-      |------------------------------|---------------------------------|
-      | Data-intensive applications  | AI / ML                         |
-      | Web applications             | DevOps                          |
-      | Mobile apps                  | Security                        |
-      | Automated systems            | Automation                      |
-      | AI Models                    | Operating Systems & Linux       |
-      | Modules                      | IOT                             |
-      | Software                     | Ansible                         |
+  I have experience in developing: <mark>Data-intensive Applications</mark>, <mark>AI Models</mark>, <mark>Automated Systems</mark>, <mark>Web Apps</mark>, <mark>Mobile Apps</mark>, <mark>Modules</mark>, <mark>Software</mark>.
+     
+  Areas of Interest: <mark>AI / ML</mark>, <mark>DevOps</mark>, <mark>Security</mark>, <mark>Automation</mark>, <mark>Operating Systems & Linux</mark>, <mark>Ansible</mark>, <mark>Containerization</mark>.
 
 # TODO fill this in when there's time lol
 
